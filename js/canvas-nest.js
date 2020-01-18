@@ -1,4 +1,3 @@
-!
 function() {
     function o(w, v, i) {
         return w.getAttribute(v) || i
